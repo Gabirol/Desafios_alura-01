@@ -1,4 +1,4 @@
-# 🚀 Desafios alura º01
+# 🚀 Desafios alura - Projeto 01 - Testando conhecimentos
 
 Neste projetos pode se ver que tenha varios arquivos js. Cada um deles foi um desafio que programei para fazer alguma tipo de função especifica.
 

@@ -30,7 +30,7 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
 - **HTML5** — estrutura e elementos da página  
 - **CSS3** — estilização visual e responsividade  
 - **JavaScript (ES6+)** — lógica principal  
-- **Web Speech API** — Conversão de dolar em tempo real
+- **Web conversion API** — Conversão de dolar em tempo real
 
 ---
 

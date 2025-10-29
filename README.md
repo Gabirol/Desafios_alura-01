@@ -50,3 +50,36 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
 1. Clone este repositório:
    ```bash
    git clone https://git@github.com:Gabirol/Desafios_alura-01.git
+
+
+## 🗂 Estrutura do Projeto
+
+Este projeto contém desafios práticos desenvolvidos durante o curso de JavaScript.  
+Abaixo está a organização das pastas e arquivos, com uma descrição clara do propósito de cada um.
+JS-CURSO-2-DESAFIO_3/
+│
+├── img/ # Imagens utilizadas na interface
+│ ├── bg.png 
+│ ├── code.png 
+│ ├── Ruido.png
+│ └── trophy.png 
+│
+├── js/ # Scripts JavaScript do projeto
+│ ├── area.js 
+│ ├── dolar.js
+│ ├── fatorial.js
+│ ├── imc.js
+│ 
+│
+├── index.html # Estrutura principal da interface (HTML)
+└── style.css # Estilização visual do projeto (CSS)
+
+## 👨‍💻 Autor
+
+**Gabriel Alves**
+📧 galves.ag2003@gmail.com
+
+🔗 [LinkedIn](www.linkedin.com/in/gabriel-alves-gonçalves-28220a205)
+ • [GitHub**](https://github.com/Gabirol)
+
+

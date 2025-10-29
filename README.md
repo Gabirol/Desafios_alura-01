@@ -11,7 +11,6 @@ Neste projetos pode se ver que tenha varios arquivos js. Cada um deles foi um de
 - [Funcionalidades](#-funcionalidades)
 - [Como executar o projeto](#-como-executar-o-projeto)
 - [Estrutura de pastas](#-estrutura-de-pastas)
-- [Próximos passos](#-próximos-passos)
 - [Aprendizados](#-aprendizados)
 - [Autor](#-autor)
 
@@ -45,7 +44,7 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
 
 ## 🧭 Como executar o projeto
 
-### 🔹 Localmente, sempre que for usar uma das funções, deve-se trocar no arquivo index.html <script src="**funcao**.js" defer></script>, em cima de cada arquivo js mostramos onde deve ser alterado e para o que.
+### 🔹 Localmente, sempre que for usar uma das funções, deve-se trocar no arquivo index.html `<script src="funcao.js" defer></script>`, em cima de cada arquivo js mostramos onde deve ser alterado e para o que.
 
 1. Clone este repositório:
    ```bash
@@ -56,30 +55,55 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
 
 Este projeto contém desafios práticos desenvolvidos durante o curso de JavaScript.  
 Abaixo está a organização das pastas e arquivos, com uma descrição clara do propósito de cada um.
+
 JS-CURSO-2-DESAFIO_3/
+
 │
+
 ├── img/ # Imagens utilizadas na interface
+
 │ ├── bg.png 
+
 │ ├── code.png 
+
 │ ├── Ruido.png
+
 │ └── trophy.png 
+
 │
+
 ├── js/ # Scripts JavaScript do projeto
+
 │ ├── area.js 
+
 │ ├── dolar.js
+
 │ ├── fatorial.js
+
 │ ├── imc.js
+
 │ 
+
 │
+
 ├── index.html # Estrutura principal da interface (HTML)
+
 └── style.css # Estilização visual do projeto (CSS)
+
+
+## 💡 Aprendizados
+
+Consegui usar melhor API, testei e coloquei em pratica diversos loops e condicionais.
+
+> Este projeto me ajudou a entender melhor o funcionamento de condicionais, loops e configurações de APIs.
 
 ## 👨‍💻 Autor
 
 **Gabriel Alves**
-📧 galves.ag2003@gmail.com
 
-🔗 [LinkedIn](www.linkedin.com/in/gabriel-alves-gonçalves-28220a205)
- • [GitHub**](https://github.com/Gabirol)
+**📧 galves.ag2003@gmail.com**
+
+**🔗 [LinkedIn](www.linkedin.com/in/gabriel-alves-gonçalves-28220a205)
+• [GitHub](https://github.com/Gabirol)**
 
 

@@ -1,4 +1,4 @@
-# 🚀 Desafios alura º1
+# 🚀 Desafios alura º01
 
 Neste projetos pode se ver que tenha varios arquivos js. Cada um deles foi um desafio que programei para fazer alguma tipo de função especifica.
 
@@ -8,11 +8,11 @@ Neste projetos pode se ver que tenha varios arquivos js. Cada um deles foi um de
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Funcionalidades](#-funcionalidades)
+- [Funcionalidades](#%EF%B8%8F-funcionalidades)
 - [Como executar o projeto](#-como-executar-o-projeto)
 - [Estrutura de pastas](#-estrutura-de-pastas)
 - [Aprendizados](#-aprendizados)
-- [Autor](#-autor)
+- [Autor](#%E2%80%8D-autor)
 
 ---
 
@@ -37,8 +37,8 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
 
 - [x] area.js — Calcular uma área e perimetro com base nos valores informados pelo usuário
 - [x] dolar.js — Realiza a conversão em tempo real de real em dolar ou dolar em real.  
-- [ ] fatorial.js — Calcular o fatorial do valor informado pelo usuário
-- [ ] imc.js — Coleta o peso e altura do funcionario e retorna o imc dele com base nos valores informados
+- [x] fatorial.js — Calcular o fatorial do valor informado pelo usuário
+- [x] imc.js — Coleta o peso e altura do funcionario e retorna o imc dele com base nos valores informados
 
 ---
 
@@ -51,7 +51,7 @@ Entre os arquivos, temos as seguintes funções, calculo de área, fatorial, imc
    git clone https://git@github.com:Gabirol/Desafios_alura-01.git
 
 
-## 🗂 Estrutura do Projeto
+## 🗂 Estrutura de Pastas
 
 Este projeto contém desafios práticos desenvolvidos durante o curso de JavaScript.  
 Abaixo está a organização das pastas e arquivos, com uma descrição clara do propósito de cada um.
